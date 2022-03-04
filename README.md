@@ -5,9 +5,10 @@ golang 做的苹果签名系统，
 可做运营使用。 
 管理后台 和 分发站点可单独部署
 
-可定制功能
-
+可定制功能。
 可以出售， Q: 497994553，
+
+
 ![WechatIMG621](https://user-images.githubusercontent.com/85944889/156728837-940b2db1-7bc0-4d80-9180-af6fb7c04533.jpeg)
 <img width="1280" alt="WechatIMG96" src="https://user-images.githubusercontent.com/85944889/156728847-0a158ca9-c086-495f-a506-c7910a7222fc.png">
 <img width="1280" alt="WechatIMG92" src="https://user-images.githubusercontent.com/85944889/156728854-a2b992f2-f70b-4298-834b-f5fb8506f558.png">
